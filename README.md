@@ -10,7 +10,8 @@ Java JDK	21 LTS
 Maven	3.9.x
 MySQL Server	8.0+
 
-# Struktur Folder
+# Struktur Folder 
+
 src/ : Source code program.
 database.sql : File export database (terletak di root).
 README.md : Dokumentasi tugas.
