@@ -6,15 +6,14 @@ Program ini dibuat untuk mengelola data [karyawan] menggunakan bahasa pemrograma
 
 # Prasyarat
 Sebelum menjalankan aplikasi, pastikan sudah install:
-Java JDK	21 LTS
-Maven	3.9.x
-MySQL Server	8.0+
+ - Java JDK	21 LTS
+ - Maven	3.9.x
+ - MySQL Server	8.0+
 
 # Struktur Folder 
-
-src/ : Source code program.
-database.sql : File export database (terletak di root).
-README.md : Dokumentasi tugas.
+ - src/ : Source code program.
+ - database.sql : File export database (terletak di root).
+ - README.md : Dokumentasi tugas.
 
 # Berikut adalah hasil running program dan struktur databasenya:
 
